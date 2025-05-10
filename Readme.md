@@ -27,11 +27,14 @@ You can also add the widget on Mac
 
 ## Configuration
 
-1. Add a Scriptable widget to the place where you want it to be.
-2. Long press on the widget and select "Change widget"
-3. In "Script" section, select "Scriptable GMX"
-4. (Optional) In "When Interacting" section, select "Open URL" and set `https://metamask.app.link/dapp/https://app.gmx.io/#/trade/long`.
-5. In "Parameter" section, set account address `0x1234...4567`.
+- [Apple docs for iOS home screen widgets](https://support.apple.com/en-il/guide/iphone/iphb8f1bf206/ios)
+- [Apple docs for iOS lock screen widgets](https://support.apple.com/en-il/guide/iphone/iph4d0e6c351/18.0/ios/18.0#iphf41752ab8)
+- [Apple docs for Mac desktop and notification center widgets](https://support.apple.com/guide/mac-help/add-and-customize-widgets-mchl52be5da5/mac)
+
+1. After adding a bare Scriptable widget. Edit it.
+2. In "Script" section, select "Scriptable GMX"
+3. (Optional) In "When Interacting" section, select "Open URL" and set `https://metamask.app.link/dapp/https://app.gmx.io/#/trade/long`.
+4. In "Parameter" section, set your account address `0x1234...4567`.
 
 ![Configuration](widget-configuration.jpg)
 
