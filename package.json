@@ -1,0 +1,12 @@
+{
+  "name": "scriptable-gmx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "link": "ln -s ~/Library/Mobile\\ Documents/iCloud~dk~simonbs~Scriptable/Documents/Scriptable\\ GMX.js index-linked.js",
+    "export": "node export.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
